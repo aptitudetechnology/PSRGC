@@ -1,0 +1,1 @@
+Using the table in the README.md please write a prompt to create minimum viable prototype lua script that attempts to create an agent for each social role. The social role is a personifcation of a part of the computer. They must all work together. Save the prompt as social-role.md.  

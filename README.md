@@ -11,3 +11,4 @@ Personfied Social Role Genome Chassis
 |**PSU**|Converts power and distributes it to all components.|The Building Manager 🏢|
 |**Sound Card**|Processes audio input and output for better sound quality.|The Musician 🎶|
 |**Radio Modem**|Transmits and receives data wirelessly over long distances.|The Communicator 🗣️|
+|**TPU**|Optimized for machine learning and AI tasks, processing vast amounts of data for predictions.|The Sculptor 🛠️|
