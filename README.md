@@ -15,4 +15,4 @@ Personfied Social Role Genome Chassis
 |**Cryptocurrency Miner**|Solves cryptographic computational problems to generate reusable proof of work, utilizing all other social roles as resources.|The Prospector 🪙|
 |**TPU**|Optimized for machine learning and AI tasks, processing vast amounts of data for predictions.|The Sculptor 🛠️|
 
-
+-
