@@ -1,0 +1,1 @@
+Please write a promtt below to create a bio-compilter lua script that can convert the lua scripts created by the social-role.md prompt to FASTA files.
