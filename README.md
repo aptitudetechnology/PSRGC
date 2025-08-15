@@ -14,4 +14,9 @@ Personfied Social Role Genome Chassis
 |**Cryptocurrency Miner**|Solves cryptographic computational problems to generate reusable proof of work, utilizing all other social roles as resources.|The Prospector 🪙|
 |**TPU**|Optimized for machine learning and AI tasks, processing vast amounts of data for predictions.|The Sculptor 🛠️|
 
-The primaru social role is mother and we need to to bootstrap AGI.
+The primary social role is mother and we need to to bootstrap AGI.
+
+Mothers create daughters that become mothers and the cycle continues. Daughter could be considered the secondary social role. Father the tertiary and son the quaternary.
+
+
+
