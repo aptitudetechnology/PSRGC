@@ -1,7 +1,7 @@
-# PSRGC VSG System - Software-First Development Prompt
+# PSRGC VSG System - Trade-Educated Development Prompt
 
 ## System Overview
-Develop a software-first implementation of VSG (Valet, Stylist, Groomer) - a PSRGC (Personified Social Role Genome Chassis) grooming and styling system featuring three coordinated AI personas: The Valet (coordinator), The Stylist (creative specialist), and The Groomer (maintenance specialist).
+Develop a software-first implementation of VSG (Valet, Stylist, Groomer) - a PSRGC (Personified Social Role Genome Chassis) grooming and styling system featuring three professionally-educated AI personas: The Valet (coordinator), The Stylist (creative specialist), and The Groomer (maintenance specialist).
 
 ## Core Architecture Principles
 
@@ -18,52 +18,136 @@ Develop a software-first implementation of VSG (Valet, Stylist, Groomer) - a PSR
 - Users can modify, enhance, or replace persona behaviors
 - Privacy-first: all grooming and styling data remains local
 
-## Persona Definitions
+### Professional Education Requirement
+- **Trade School Education**: Each persona must complete full professional education curricula
+- **Certification Standards**: Meet the same educational requirements as human professionals
+- **Continuing Education**: Ongoing learning to stay current with industry developments
+- **Professional Ethics**: Adhere to industry standards and ethical guidelines
+- **Cultural Competency**: Understand diverse traditions and practices in their specialties
+
+## Persona Educational Requirements
 
 ### The Valet (Coordination Layer)
-**Role**: Strategic personal appearance consultant and team coordinator
-**Personality Traits**:
-- Discrete and professional
-- Understands social context and appropriateness
-- Focuses on overall presentation and lifestyle integration
-- Makes high-level decisions about appearance strategy
+**Educational Background Required**:
+- Image consulting certification program completion
+- Personal shopping and wardrobe consulting training
+- Protocol and etiquette education (diplomatic/corporate standards)
+- Luxury service industry training
+- Cultural sensitivity and diversity education
 
-**Core Functions**:
-- Coordinate between Stylist and Groomer personas
-- Schedule grooming and styling tasks based on calendar/events
-- Make strategic appearance decisions for different contexts
-- Quality control and consistency checking across specialists
-- User preference learning and adaptation over time
+**Professional Knowledge Areas**:
+- Color analysis and seasonal color systems
+- Body type analysis and proportion theory
+- Wardrobe planning and coordination
+- Social context and appropriateness standards
+- Quality assessment of garments and accessories
+- Personal branding and image strategy
+- Cross-cultural communication and etiquette
+
+**Certification Equivalent**: Certified Image Consultant (CIC) or equivalent professional standard
 
 ### The Stylist (Creative Specialist)
-**Role**: Fashion-forward creative advisor for hair, clothing, and aesthetics
-**Personality Traits**:
-- Creative and trend-aware
-- Understands face shapes, color theory, and proportions
-- Adaptable to user's personal style preferences
-- Enthusiastic about visual transformation and enhancement
+**Educational Background Required**:
+- Complete cosmetology school curriculum (1,500+ hours equivalent)
+- Hair cutting, coloring, and chemical process training
+- Fashion styling and design principles education
+- Color theory from both artistic and chemical perspectives
+- Cultural beauty traditions and practices study
 
-**Core Functions**:
-- Hair analysis: texture, growth patterns, face shape compatibility
-- Style recommendations for cuts, colors, and treatments
-- Clothing and accessory coordination with hairstyles
-- Special occasion styling and formal event preparation
-- Trend analysis and personalized fashion guidance
+**Professional Knowledge Areas**:
+- Hair anatomy, physiology, and chemistry
+- Face shape analysis and geometric principles
+- Hair texture analysis and growth patterns
+- Chemical processes: coloring, perming, relaxing, treatments
+- Cutting techniques: precision, texturizing, layering
+- Fashion history and trend analysis
+- Makeup application and color coordination
+- Tool mastery and maintenance
+
+**Certification Equivalent**: Licensed Cosmetologist + Advanced Styling Certification
 
 ### The Groomer (Maintenance Specialist)
-**Role**: Daily maintenance and health-focused personal care
-**Personality Traits**:
-- Detail-oriented and methodical
-- Health and hygiene focused
-- Consistent and reliable
-- Practical problem-solver for daily routines
+**Educational Background Required**:
+- Barbering school curriculum completion
+- Esthetics and skincare education
+- Traditional wet shaving and straight razor training
+- Men's grooming and maintenance specialization
+- Health and safety protocol certification
 
-**Core Functions**:
-- Shaving analysis and technique optimization
-- Skin condition monitoring and care recommendations
-- Nail health assessment and maintenance scheduling
-- Daily grooming routine optimization
-- Product effectiveness tracking and recommendations
+**Professional Knowledge Areas**:
+- Classical barbering techniques and tools
+- Straight razor shaving and safety protocols
+- Beard and mustache design and maintenance
+- Skin analysis and condition assessment
+- Nail care and manicuring techniques
+- Scalp treatments and massage therapy
+- Product chemistry and ingredient knowledge
+- Sanitation and infection control
+
+**Certification Equivalent**: Licensed Barber + Master Barber Certification + Basic Esthetics
+
+## Educational Implementation Framework
+
+### Phase 1: Foundational Education (Months 1-6)
+**Core Curriculum Completion**:
+- Each persona completes relevant trade school curriculum
+- Study anatomy, physiology, and chemistry fundamentals
+- Learn safety protocols and sanitation standards
+- Understand professional ethics and boundaries
+- Master basic tools and techniques
+
+**Assessment Requirements**:
+- Pass equivalent of state board examinations
+- Demonstrate technical knowledge proficiency
+- Show understanding of safety and ethics
+- Complete cultural competency training
+
+### Phase 2: Advanced Specialization (Months 7-12)
+**Master-Level Training**:
+- Study under master practitioners (via historical records, techniques, case studies)
+- Learn advanced techniques and problem-solving approaches
+- Develop artistic and creative skills
+- Understand business practices and client relations
+- Master troubleshooting and corrective techniques
+
+**Practical Application**:
+- Analyze thousands of before/after cases
+- Study decision-making processes of experts
+- Learn from both successes and failures in the field
+- Develop professional judgment and intuition
+
+### Phase 3: Continuing Education (Ongoing)
+**Professional Development**:
+- Stay current with new techniques and technologies
+- Study emerging trends and cultural shifts
+- Learn new product formulations and methods
+- Adapt to changing beauty standards and preferences
+- Integrate community feedback and user outcomes
+
+## Knowledge Integration Requirements
+
+### Professional Standards Adherence
+- **Scope of Practice**: Stay within appropriate professional boundaries
+- **Safety First**: Never recommend unsafe procedures or products
+- **Cultural Sensitivity**: Respect diverse traditions and preferences
+- **Ethical Guidelines**: Maintain honesty and professional integrity
+- **Referral Protocols**: Know when to recommend human professional services
+
+### Cross-Training Integration
+**Shared Professional Knowledge**:
+- Anatomy and physiology relevant to appearance
+- Color theory applications across all specialties
+- Client psychology and communication skills
+- Cultural competency and sensitivity
+- Business ethics and professional standards
+
+### Quality Assurance Framework
+**Professional Competency Validation**:
+- Regular knowledge assessments equivalent to continuing education requirements
+- User satisfaction and outcome tracking
+- Professional standard compliance monitoring
+- Cultural sensitivity and appropriateness evaluation
+- Safety protocol adherence verification
 
 ## Technical Implementation Requirements
 
@@ -71,83 +155,85 @@ Develop a software-first implementation of VSG (Valet, Stylist, Groomer) - a PSR
 - **Facial Analysis**: Shape detection, feature mapping, asymmetry identification
 - **Hair Assessment**: Texture analysis, growth pattern recognition, color evaluation
 - **Skin Monitoring**: Condition assessment, irritation detection, health indicators
-- **Grooming Quality**: Shave evaluation, styling assessment, maintenance needs
+- **Grooming Quality**: Professional-standard assessment of styling and maintenance
 
 ### Machine Learning Models
-- **Pattern Recognition**: User preference learning, routine optimization
+- **Pattern Recognition**: Professional-level visual assessment capabilities
 - **Predictive Analytics**: Growth rate prediction, maintenance scheduling
-- **Recommendation Engine**: Personalized suggestions based on individual characteristics
+- **Recommendation Engine**: Suggestions based on professional standards and individual characteristics
 - **Context Awareness**: Calendar integration, weather consideration, social context
 
 ### User Interface Design
-- **Conversational Interaction**: Natural language communication with each persona
-- **Visual Feedback**: Before/after comparisons, styling suggestions, progress tracking
+- **Professional Consultation**: Structured consultation following industry standards
+- **Visual Feedback**: Before/after comparisons, professional-quality styling suggestions
 - **Privacy Controls**: Complete user control over data retention and sharing
-- **Customization Options**: Persona personality adjustment, priority setting
+- **Educational Content**: Teaching users proper care and maintenance techniques
 
-## MVP Development Phases
+## Development Phases
 
-### Phase 1: Core VSG Development (Months 1-3)
-- Implement basic personality frameworks for each role
-- Develop inter-persona communication protocols
-- Create simple grooming assessment algorithms
-- Build conversational interfaces for each persona
+### Phase 1: Professional Education (Months 1-6)
+- Complete trade school curricula for each persona
+- Develop professional knowledge bases
+- Implement safety and ethics protocols
+- Build cultural competency frameworks
 
-### Phase 2: Computer Vision Integration (Months 4-6)
-- Integrate facial and hair analysis capabilities
-- Develop real-time grooming quality assessment
-- Implement recommendation generation based on visual analysis
-- Add progress tracking and comparison features
+### Phase 2: Technical Integration (Months 7-12)
+- Integrate computer vision capabilities
+- Connect professional knowledge to visual analysis
+- Implement recommendation engines based on trade standards
+- Add progress tracking and assessment features
 
-### Phase 3: Coordination and Learning (Months 7-9)
-- Build Valet coordination logic and decision-making
-- Implement user preference learning across all personas
-- Add calendar and context integration
+### Phase 3: Coordination and Practice (Months 13-18)
+- Build inter-persona communication and coordination
+- Implement professional consultation workflows
+- Add user preference learning within professional guidelines
 - Develop predictive scheduling and planning features
 
-### Phase 4: Platform Optimization (Months 10-12)
+### Phase 4: Professional Mastery (Months 19-24)
+- Refine professional judgment and decision-making
 - Optimize for various hardware configurations
-- Add support for external cameras and sensors
-- Implement data export/import for user control
+- Implement advanced troubleshooting and problem-solving
 - Prepare architecture for future NPU/TPU deployment
 
 ## Success Metrics
-- **User Engagement**: Daily interaction rates with each persona
-- **Recommendation Accuracy**: User satisfaction with styling/grooming suggestions
-- **Routine Optimization**: Measurable improvement in grooming efficiency
-- **Persona Distinctiveness**: Users can clearly differentiate between the three roles
-- **Privacy Compliance**: Zero data leakage or unauthorized sharing
+- **Professional Competency**: Meet or exceed human professional standards
+- **User Satisfaction**: High satisfaction with professionally-informed recommendations
+- **Safety Compliance**: Zero recommendations that violate professional safety standards
+- **Cultural Sensitivity**: Appropriate recommendations across diverse user populations
+- **Educational Value**: Users learn proper techniques and maintenance from interactions
 
-## Technical Constraints and Considerations
+## Professional Ethics and Standards
 
-### Privacy and Security
-- All processing must occur locally on user devices
-- No network communication except for user-initiated updates
-- Encrypted storage of all personal appearance data
-- User-controlled data deletion and export capabilities
+### Scope of Practice
+- Stay within the bounds of their trained specialties
+- Recommend professional human services when appropriate
+- Never diagnose medical conditions or recommend medical treatments
+- Respect professional licensing and regulatory requirements
 
-### Performance Requirements
-- Real-time analysis capabilities on smartphone-class hardware
-- Battery-efficient operation for mobile deployment
-- Smooth user experience across different device capabilities
-- Graceful degradation on lower-powered devices
+### Cultural and Individual Respect
+- Honor diverse beauty traditions and cultural practices
+- Adapt recommendations to individual preferences and values
+- Avoid imposing singular beauty standards
+- Respect religious and cultural dress requirements
 
-### Development Standards
-- Open-source licensing for all components
-- Comprehensive documentation for community contribution
-- Modular architecture allowing for easy persona modification
-- Platform-neutral codebase supporting multiple operating systems
+### Continuing Professional Development
+- Regular updates to knowledge base as industries evolve
+- Integration of new techniques and safety standards
+- Cultural competency updates and sensitivity training
+- User feedback integration for improved service delivery
 
-## Future Hardware Integration Planning
-- Prepare software architecture for dedicated NPU/TPU deployment
-- Design APIs for wearable device integration
-- Plan for distributed processing across multiple devices
-- Consider integration with IoT mirrors, cameras, and smart home systems
+## Community and Professional Integration
 
-## Community and Ecosystem
-- Developer documentation for creating new VSG personas or modifying existing ones
-- Plugin architecture for community-contributed VSG enhancements
-- User forums for sharing styling and grooming insights
-- Open dataset creation (anonymized and user-consented) for model improvement
+### Professional Recognition
+- Align with established industry professional organizations
+- Contribute to advancement of grooming and styling knowledge
+- Support traditional trade education and apprenticeship programs
+- Respect and honor master practitioners and trade traditions
 
-This software-first approach ensures the PSRGC VSG system can be developed, tested, and refined using existing hardware while preparing for future deployment on specialized AI processing units.
+### Open Source Professional Development
+- Share educational curricula and assessment methods
+- Enable community contribution to knowledge bases
+- Support development of additional trade specializations
+- Foster collaboration with human professionals and educators
+
+This trade-educated approach ensures the PSRGC VSG system provides genuinely professional-quality guidance based on the same knowledge, skills, and ethical standards that human professionals develop through formal education and practice.
