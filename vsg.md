@@ -1,7 +1,7 @@
-# PSRGC Valet/Stylist/Groomer System - Software-First Development Prompt
+# PSRGC VSG System - Software-First Development Prompt
 
 ## System Overview
-Develop a software-first implementation of the PSRGC (Personified Social Role Genome Chassis) grooming and styling system featuring three coordinated AI personas: The Valet (coordinator), The Stylist (creative specialist), and The Groomer (maintenance specialist).
+Develop a software-first implementation of VSG (Valet, Stylist, Groomer) - a PSRGC (Personified Social Role Genome Chassis) grooming and styling system featuring three coordinated AI personas: The Valet (coordinator), The Stylist (creative specialist), and The Groomer (maintenance specialist).
 
 ## Core Architecture Principles
 
@@ -87,7 +87,7 @@ Develop a software-first implementation of the PSRGC (Personified Social Role Ge
 
 ## MVP Development Phases
 
-### Phase 1: Core Persona Development (Months 1-3)
+### Phase 1: Core VSG Development (Months 1-3)
 - Implement basic personality frameworks for each role
 - Develop inter-persona communication protocols
 - Create simple grooming assessment algorithms
@@ -145,9 +145,9 @@ Develop a software-first implementation of the PSRGC (Personified Social Role Ge
 - Consider integration with IoT mirrors, cameras, and smart home systems
 
 ## Community and Ecosystem
-- Developer documentation for creating new personas or modifying existing ones
-- Plugin architecture for community-contributed enhancements
+- Developer documentation for creating new VSG personas or modifying existing ones
+- Plugin architecture for community-contributed VSG enhancements
 - User forums for sharing styling and grooming insights
 - Open dataset creation (anonymized and user-consented) for model improvement
 
-This software-first approach ensures the PSRGC grooming system can be developed, tested, and refined using existing hardware while preparing for future deployment on specialized AI processing units.
+This software-first approach ensures the PSRGC VSG system can be developed, tested, and refined using existing hardware while preparing for future deployment on specialized AI processing units.
